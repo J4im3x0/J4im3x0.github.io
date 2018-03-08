@@ -45,4 +45,4 @@ var monArray = [
 ];
 
 writeArray(".text", "[root@jaimexo.me ~]# ", monArray, 40);
-writeArray(".text", "root@jaimexo.me's password: ", monArray2, 40);
+writeArray(".text", "root@jaimexo.me's password: ", monArray2, 60);
