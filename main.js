@@ -35,10 +35,14 @@ var countElements = function (parent, getChildrensChildren) {
     }
     return relevantChildren;
 }
+var monArray2 = [
+    "**********",
+];
 
 var monArray = [
     "Welcome to Jaimexo.me",
     "Twitter: @J4im3x0",
 ];
 
-writeArray(".text", "root@jaimexo.me:~# ", monArray, 40);
+writeArray(".text", "[root@jaimexo.me ~]# ", monArray, 40);
+writeArray(".text", "root@jaimexo.me's password: ", monArray2, 40);
