@@ -41,7 +41,7 @@ var monArray2 = [
 
 var monArray = [
     "Welcome to Jaimexo.me",
-    "Twitter: @J4im3x0",
+    "Twitter: @implosionar",
 ];
 
 writeArray(".text", "[root@jaimexo.me ~]# ", monArray, 40);
