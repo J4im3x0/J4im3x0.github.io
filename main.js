@@ -40,9 +40,9 @@ var monArray2 = [
 ];
 
 var monArray = [
-    "Welcome to Jaimexo.me",
-    "Twitter: @implosionar",
+    "Welcome to jaime.wtf",
+    "How is your day?",
 ];
 
-writeArray(".text", "[root@jaimexo.me ~]# ", monArray, 40);
-writeArray(".text", "root@jaimexo.me's password: ", monArray2, 60);
+writeArray(".text", "[root@jaime.wtf ~]# ", monArray, 40);
+writeArray(".text", "root@jaime.wtf's password: ", monArray2, 60);
