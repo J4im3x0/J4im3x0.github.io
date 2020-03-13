@@ -41,7 +41,7 @@ var monArray2 = [
 
 var monArray = [
     "Bienvenido a jaime.wtf",
-    "Esta página literalmente no hace nada",
+    "Eres hermosa 😳",
 ];
 
 writeArray(".text", "[root@jaime.wtf ~]# ", monArray, 40);
