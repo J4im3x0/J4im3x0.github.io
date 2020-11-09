@@ -40,9 +40,9 @@ var monArray2 = [
 ];
 
 var monArray = [
-    "Bienvenido a jaime.wtf",
-    "Eres hermosa 😳",
+    "Bienvenido a jaime.lol",
+    "De mis 0 bitcoins 0 son tuyos, porque no compré, la puta madre.",
 ];
 
-writeArray(".text", "[root@jaime.wtf ~]# ", monArray, 40);
-writeArray(".text", "root@jaime.wtf's password: ", monArray2, 60);
+writeArray(".text", "[root@jaime.lol ~]# ", monArray, 40);
+writeArray(".text", "root@jaime.lol's password: ", monArray2, 60);
