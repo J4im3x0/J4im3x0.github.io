@@ -41,7 +41,7 @@ var monArray2 = [
 
 var monArray = [
     "Bienvenido a jaime.lol",
-    "De mis 0 bitcoins 0 son tuyos, porque no compré, la puta madre.",
+    "Sígueme en Twiter: @implosionar",
 ];
 
 writeArray(".text", "[root@jaime.lol ~]# ", monArray, 40);
